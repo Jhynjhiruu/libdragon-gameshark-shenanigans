@@ -1,0 +1,9 @@
+build/
+
+.clangd
+*.z64
+*.png
+*.bin
+*.elf
+*.tmp
+*.bak
